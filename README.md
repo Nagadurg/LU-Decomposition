@@ -27,7 +27,7 @@ Step 2: Using "from scipy.linalg import lu_factor,lu_solve" to import scipy modu
 
 Step 3: Using "lu,piv=lu_factor(a)" 
 
-Step 4: 
+Step 4: print the result matrices.
 
 Step 5: End of the Program.
 
@@ -67,9 +67,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](ss1.png)
+![lu decomposition](https://github.com/Nagadurg/LU-Decomposition/blob/f33b82974a062caacac21c2dd144e89aa4dd1ded/ss1.PNG)
 
-![lu decomposition](ss2.png)
+![lu decomposition](https://github.com/Nagadurg/LU-Decomposition/blob/f33b82974a062caacac21c2dd144e89aa4dd1ded/ss2.PNG)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
